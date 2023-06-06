@@ -470,7 +470,7 @@ footer {
 }
 
 .project-image img {
-  object-fit: cover;
+  object-fit: scale-down;
   height: 320px;
   width: 280px;
 }
